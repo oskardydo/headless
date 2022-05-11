@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1647447180">
-  <project timestamp="1647447180">
+<coverage generated="1652264632">
+  <project timestamp="1652264632">
     <file name="/home/runner/work/headless/headless/Classes/ContentObject/BooleanContentObject.php">
       <class name="FriendsOfTYPO3\Headless\ContentObject\BooleanContentObject" namespace="global">
         <metrics complexity="5" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="12" elements="13" coveredelements="13"/>
@@ -276,15 +276,15 @@
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/DatabaseQueryProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\DatabaseQueryProcessor" namespace="global">
-        <metrics complexity="13" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+        <metrics complexity="14" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="155" ncloc="90" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="159" ncloc="94" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FilesProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FilesProcessor" namespace="global">
         <metrics complexity="31" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
       </class>
-      <metrics loc="254" ncloc="203" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="249" ncloc="198" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <file name="/home/runner/work/headless/headless/Classes/DataProcessing/FlexFormProcessor.php">
       <class name="FriendsOfTYPO3\Headless\DataProcessing\FlexFormProcessor" namespace="global">
@@ -1381,6 +1381,6 @@
       </class>
       <metrics loc="115" ncloc="96" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
-    <metrics files="72" loc="7675" ncloc="5938" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
+    <metrics files="72" loc="7674" ncloc="5937" classes="24" methods="92" coveredmethods="72" conditionals="0" coveredconditionals="0" statements="892" coveredstatements="569" elements="984" coveredelements="641"/>
   </project>
 </coverage>
